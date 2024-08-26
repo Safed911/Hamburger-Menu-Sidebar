@@ -1,2 +1,2 @@
 # menu-bar
-Simple menu bar | HTML and CSS
+This is a simple menu sidebar using HTML and CSS.
